@@ -1,24 +1,41 @@
 {
   "main": {
-    "id": "1e7e5943944a679b",
+    "id": "874ec427aa7ee013",
     "type": "split",
     "children": [
       {
-        "id": "a1e7bbf2655cd369",
+        "id": "91da927c82314eee",
         "type": "tabs",
         "children": [
           {
-            "id": "d697e3ff5943d458",
+            "id": "efefbd6d4d39c906",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "e959b66227e8d6e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
               "state": {
-                "file": "Matematika/Untitled.canvas",
-                "viewState": {
-                  "x": -725,
-                  "y": -2272,
-                  "zoom": 0
-                }
+                "file": "Matematika/Peluang/Kombinasi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32b9b454f26c3c17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matematika/Peluang/Kombinasi.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -28,15 +45,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "de45106145bf9f47",
+    "id": "c100301224831d77",
     "type": "split",
     "children": [
       {
-        "id": "16517124e3b2c64a",
+        "id": "b200f68ed1ed1065",
         "type": "tabs",
         "children": [
           {
-            "id": "c9ee43b109e8710d",
+            "id": "eefed44145c7edb3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -46,7 +63,7 @@
             }
           },
           {
-            "id": "d541e77440e317f1",
+            "id": "69feb61859bdd0f1",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +78,7 @@
             }
           },
           {
-            "id": "d62bedf0008f6cbb",
+            "id": "f5da1aa28170ed5f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -75,20 +92,19 @@
     "width": 300
   },
   "right": {
-    "id": "983ce3f8f8b089bd",
+    "id": "5f7165b290629f1c",
     "type": "split",
     "children": [
       {
-        "id": "3ff92917240ba5ee",
+        "id": "44fdbfef72cd483f",
         "type": "tabs",
         "children": [
           {
-            "id": "549f951d1de50b37",
+            "id": "0d7ec1d0cec912df",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matematika/Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,19 +116,18 @@
             }
           },
           {
-            "id": "5fd816c7ac8c9832",
+            "id": "bb5c73f0569da195",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matematika/Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "d57515467d9f8b89",
+            "id": "53d92bc910aa302a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -123,21 +138,19 @@
             }
           },
           {
-            "id": "d21d9a25a52b5f6a",
+            "id": "e150286740c8d76c",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Matematika/Untitled.canvas"
-              }
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,11 +162,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d697e3ff5943d458",
+  "active": "efefbd6d4d39c906",
   "lastOpenFiles": [
-    "Matematika/Untitled.md",
-    "Matematika/Welcome.md",
-    "Matematika/Untitled.canvas",
-    "Matematika/create a link.md"
+    "Matematika/Peluang/Kaidah Pencacahan.md",
+    "Matematika/Peluang/Kombinasi.md",
+    "Matematika/Peluang/Permutasi.md",
+    "Matematika/Peluang/Notasi Faktorial.md",
+    "Matematika/Peluang/Teknik Membilang.md",
+    "Matematika/Peluang/Peluang.md",
+    "Untitled",
+    "Matematika/Peluang",
+    "Matematika/create a link.md",
+    "Matematika/create a link.md",
+    "Matematika/Untitled 1.md",
+    "Matematika/Untitled.canvas"
   ]
 }
