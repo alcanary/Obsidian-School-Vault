@@ -1,6 +1,6 @@
 Kombinasi ini sama seperti permutasi tapi kalo permutasi itu mencari semua kemungkinan sampe urutan nya juga sedangkan kombinasi urutannya itu di abaikan, anggapannya gini lah kalo di permutasi (a,b,c) dan (c,b,a) itu berbeda sedangkan di kombinasi 2 himpunan itu di anggap sama
 
-rumus kombinasi jika unsurnya berbeda 
+rumus kombinasi jika unsur(k) berbeda 
 
 $$
 C(n,k) = n!/k!*(n-k)!!
