@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "1e7e5943944a679b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1e7bbf2655cd369",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d697e3ff5943d458",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Matematika/Untitled.canvas",
+                "viewState": {
+                  "x": -725,
+                  "y": -2272,
+                  "zoom": 0
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "de45106145bf9f47",
+    "type": "split",
+    "children": [
+      {
+        "id": "16517124e3b2c64a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9ee43b109e8710d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d541e77440e317f1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d62bedf0008f6cbb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "983ce3f8f8b089bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ff92917240ba5ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "549f951d1de50b37",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Matematika/Untitled.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5fd816c7ac8c9832",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Matematika/Untitled.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d57515467d9f8b89",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d21d9a25a52b5f6a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Matematika/Untitled.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d697e3ff5943d458",
+  "lastOpenFiles": [
+    "Matematika/Untitled.md",
+    "Matematika/Welcome.md",
+    "Matematika/Untitled.canvas",
+    "Matematika/create a link.md"
+  ]
+}
